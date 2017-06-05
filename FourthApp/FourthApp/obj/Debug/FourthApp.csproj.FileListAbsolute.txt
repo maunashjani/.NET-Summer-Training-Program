@@ -1,0 +1,6 @@
+c:\users\mauna\documents\visual studio 2015\Projects\FourthApp\FourthApp\bin\Debug\FourthApp.exe.config
+c:\users\mauna\documents\visual studio 2015\Projects\FourthApp\FourthApp\bin\Debug\FourthApp.exe
+c:\users\mauna\documents\visual studio 2015\Projects\FourthApp\FourthApp\bin\Debug\FourthApp.pdb
+c:\users\mauna\documents\visual studio 2015\Projects\FourthApp\FourthApp\obj\Debug\FourthApp.csprojResolveAssemblyReference.cache
+c:\users\mauna\documents\visual studio 2015\Projects\FourthApp\FourthApp\obj\Debug\FourthApp.exe
+c:\users\mauna\documents\visual studio 2015\Projects\FourthApp\FourthApp\obj\Debug\FourthApp.pdb

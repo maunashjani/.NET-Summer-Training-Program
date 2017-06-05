@@ -1,0 +1,6 @@
+c:\users\mauna\documents\visual studio 2015\Projects\SecondApp\SecondApp\bin\Debug\SecondApp.exe.config
+c:\users\mauna\documents\visual studio 2015\Projects\SecondApp\SecondApp\bin\Debug\SecondApp.exe
+c:\users\mauna\documents\visual studio 2015\Projects\SecondApp\SecondApp\bin\Debug\SecondApp.pdb
+c:\users\mauna\documents\visual studio 2015\Projects\SecondApp\SecondApp\obj\Debug\SecondApp.csprojResolveAssemblyReference.cache
+c:\users\mauna\documents\visual studio 2015\Projects\SecondApp\SecondApp\obj\Debug\SecondApp.exe
+c:\users\mauna\documents\visual studio 2015\Projects\SecondApp\SecondApp\obj\Debug\SecondApp.pdb
